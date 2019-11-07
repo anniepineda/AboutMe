@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: Cambria;
+  }
+  
+  header {
+    margin: 0;
+    background: powderblue;
+    color: lightpink;
+  }
+  
+  header h1 {
+      font-size: 40px;
+    }
+    
+  p {
+    background: greenyellow;
+    color: white;
+  }
+  h2 {
+      background: whitesmoke;
+      color: plum;
+  }

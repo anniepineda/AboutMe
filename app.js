@@ -91,7 +91,7 @@ function six(){
         counter--;
     }
     else if (numGuessInt === NaN || numGuessInt === null) {
-        alert('please enter a ral number')
+        alert('please enter a real number')
     }
     else if (numGuessInt === favnum) {
         correctanswer++;
@@ -117,3 +117,5 @@ function seven(){
     }
 }
 seven();
+
+alert('Thank you' + user + 'for playing and getting to know me a litte better, you got' + correctanswer + "out of seven rightt'); 

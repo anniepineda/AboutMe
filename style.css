@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 20px;
     padding: 0;
     font-size: 20px;
     font-family: Cambria;
@@ -14,7 +14,7 @@
   header h1 {
       font-size: 40px;
     }
-    
+
   p {
     background: greenyellow;
     color: white;
@@ -22,4 +22,16 @@
   h2 {
       background: whitesmoke;
       color: plum;
+  }
+
+  h3 {
+      background: whitesmoke;
+      color: plum
+  }
+
+  li {
+      margin: 0 0 0 1%;
+      background: whitesmoke;
+      color: plum
+    
   }

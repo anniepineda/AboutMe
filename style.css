@@ -15,7 +15,7 @@
       font-size: 40px;
     }
 
-  p {
+  ul {
     background: greenyellow;
     color: white;
   }
@@ -31,7 +31,8 @@
 
   li {
       margin: 0 0 0 1%;
-      background: whitesmoke;
+      background: lightgreen;
       color: plum
     
   }
+  
